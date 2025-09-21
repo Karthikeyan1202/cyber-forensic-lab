@@ -1,7 +1,9 @@
-# Cyber Forensic Lab 🕵️‍♂️🔍💻
+<h1 align="center">🔍 Cyber Forensic Lab 🕵️‍♂️💻</h1>
 
-Backup of Digital Forensics course assignments.  
-💾 Just having it as backup 📂✨
+<p align="center">
+  📂 Backup of Digital Forensics course assignments <br>
+  💾 Just having it as backup ✨
+</p>
 
 ---
 
@@ -13,24 +15,44 @@ Each assignment demonstrates practical forensic investigation techniques using i
 
 ## 🛠️ Tools Used
 
-### Assignment 1 – Basic Forensic Operations
-![EaseUS](https://img.shields.io/badge/EaseUS-Data%20Recovery-blue?logo=windows&logoColor=white)
-![HashCalc](https://img.shields.io/badge/HashCalc-Tool-green)
-![MD5](https://img.shields.io/badge/MD5-Calculator-lightgrey)
-![FileViewer](https://img.shields.io/badge/File-Viewer-yellow)
-![FTK](https://img.shields.io/badge/FTK-Forensic%20Toolkit-orange)
-![RDrive](https://img.shields.io/badge/R--Drive-Image-red)
+<details>
+<summary><b>📂 Assignment 1 – Basic Forensic Operations</b></summary>
 
-### Assignment 2 – File System Analysis
-![WinHex](https://img.shields.io/badge/WinHex-Hex%20Editor-lightblue)
-![TSK](https://img.shields.io/badge/SleuthKit-TSK-purple)
-![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue)
+| Tool | Badge |
+|------|-------|
+| EaseUS Data Recovery Wizard | ![EaseUS](https://img.shields.io/badge/EaseUS-Data%20Recovery-blue?logo=windows&logoColor=white) |
+| HashCalc | ![HashCalc](https://img.shields.io/badge/HashCalc-Tool-green) |
+| MD5 Calculator | ![MD5](https://img.shields.io/badge/MD5-Calculator-lightgrey) |
+| File Viewer | ![FileViewer](https://img.shields.io/badge/File-Viewer-yellow) |
+| FTK (Forensic Toolkit) | ![FTK](https://img.shields.io/badge/FTK-Forensic%20Toolkit-orange) |
+| R-Drive Image | ![RDrive](https://img.shields.io/badge/R--Drive-Image-red) |
 
-### Assignment 3 – Data Acquisition & Duplication
-![DiskExplorer](https://img.shields.io/badge/DiskExplorer-NTFS-darkgreen)
-![FTKImager](https://img.shields.io/badge/FTK-Imager-orange)
+</details>
 
-### Assignment 4 – Defeating Anti-Forensics
+<details>
+<summary><b>📂 Assignment 2 – File System Analysis</b></summary>
+
+| Tool | Badge |
+|------|-------|
+| WinHex | ![WinHex](https://img.shields.io/badge/WinHex-Hex%20Editor-lightblue) |
+| Sleuth Kit (TSK) | ![TSK](https://img.shields.io/badge/SleuthKit-TSK-purple) |
+| Autopsy | ![Autopsy](https://img.shields.io/badge/Autopsy-Forensics-blue) |
+
+</details>
+
+<details>
+<summary><b>📂 Assignment 3 – Data Acquisition & Duplication</b></summary>
+
+| Tool | Badge |
+|------|-------|
+| DiskExplorer for NTFS | ![DiskExplorer](https://img.shields.io/badge/DiskExplorer-NTFS-darkgreen) |
+| FTK Imager | ![FTKImager](https://img.shields.io/badge/FTK-Imager-orange) |
+
+</details>
+
+<details>
+<summary><b>📂 Assignment 4 – Defeating Anti-Forensics</b></summary>
+
 ![Passware](https://img.shields.io/badge/Passware-Password%20Recovery-red)
 ![ArchiveRecovery](https://img.shields.io/badge/Archive-PassRecovery-yellow)
 ![PDFRecovery](https://img.shields.io/badge/PDF-PasswordRecovery-lightblue)
@@ -38,31 +60,49 @@ Each assignment demonstrates practical forensic investigation techniques using i
 ![OpenStego](https://img.shields.io/badge/OpenStego-Tool-green)
 ![DeepSound](https://img.shields.io/badge/DeepSound-Audio%20Stego-pink)
 
-### Assignment 5 – Operating System Forensics
+</details>
+
+<details>
+<summary><b>📂 Assignment 5 – Operating System Forensics</b></summary>
+
 ![OSForensics](https://img.shields.io/badge/OS-Forensics-darkblue)
 ![ProcessExplorer](https://img.shields.io/badge/Process-Explorer-lightgreen)
 ![EventLog](https://img.shields.io/badge/Event-Log%20Explorer-orange)
 ![Helix](https://img.shields.io/badge/Helix-Tool-red)
 ![Linux](https://img.shields.io/badge/Linux-Commands-grey?logo=linux)
 
-### Assignment 6 – Email Forensics
+</details>
+
+<details>
+<summary><b>📂 Assignment 6 – Email Forensics</b></summary>
+
 ![RecoverMyEmail](https://img.shields.io/badge/Recover-MyEmail-lightblue)
 ![Paraben](https://img.shields.io/badge/Paraben-EmailExaminer-purple)
 ![eMailTrackerPro](https://img.shields.io/badge/eMailTrackerPro-Legacy-red)
 ![MXToolbox](https://img.shields.io/badge/MXToolbox-Alternative-darkgreen)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network-blue?logo=wireshark)
 
-### Assignment 7 – Network Forensics
+</details>
+
+<details>
+<summary><b>📂 Assignment 7 – Network Forensics</b></summary>
+
 ![EventViewer](https://img.shields.io/badge/Windows-EventViewer-darkblue?logo=windows)
 ![XpoLog](https://img.shields.io/badge/XpoLog-Logs-orange)
 ![KiwiLogViewer](https://img.shields.io/badge/Kiwi-LogViewer-green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-Network-blue?logo=wireshark)
 
-### Assignment 8 – Database Forensics
+</details>
+
+<details>
+<summary><b>📂 Assignment 8 – Database Forensics</b></summary>
+
 ![Andriller](https://img.shields.io/badge/Andriller-AndroidDB-darkred)
 ![SQLite](https://img.shields.io/badge/SQLite-DBBrowser-blue?logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-Forensics-orange?logo=mysql)
 ![HexEditor](https://img.shields.io/badge/Hex-Editor-lightgrey)
+
+</details>
 
 ---
 
