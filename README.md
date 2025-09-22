@@ -1,6 +1,6 @@
 <h1 align="center">Cyber Forensic Lab</h1>  
 <p align="center">
-  Coursework repository for <b>CYS24008 – Digital Forensics</b> <br>
+  Coursework repository for <b>Digital Forensics</b> <br>
   Backup of assignments and practical investigations using industry tools.
 </p>  
 
