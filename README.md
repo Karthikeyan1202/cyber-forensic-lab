@@ -1,9 +1,9 @@
 <h1 align="center">Cyber Forensic Lab</h1>  
 <p align="center">
   Coursework repository for <b>Digital Forensics</b> <br>
-  Backup of assignments and practical investigations using industry tools. <br>
-  📌 This coursework is based on the <b>EC-Council C|HFI (Computer Hacking Forensic Investigator)</b> framework.
-</p>  
+  Backup of assignments and practical investigations using industry-standard forensic tools. <br>
+  📌 This coursework is based on the <b>EC-Council CHFI v11 (Computer Hacking Forensic Investigator)</b> framework.
+</p>
 
 ---
 
